@@ -13,7 +13,7 @@ public class Text {
         del(f);
     }
     public static void del(File sk){
-                File [] arrf = sk.listFiles();
+        File [] arrf = sk.listFiles();
         for(File st :arrf){
             st.delete();
             if (st.isDirectory()){

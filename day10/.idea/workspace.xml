@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50c5ab66-adb1-4b23-a520-ce448cf30978" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../day17/src/work2/text1/text5/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day17/src/work2/text1/text5/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day17/src/work3/text1/text.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day17/src/work3/text1/text.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Text3/Text03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="e#539#761#0" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Text4/APPLE.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Text5/fa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Text5/zhan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Text5/Text05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Text4/worker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Text4/Text04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Text2/Text02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Text3/Userjie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Text3/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Text5/Text05.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="265" />
+    <option name="y" value="71" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1VwORmcE6xYt8WRPtMY5HH55ESo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578273718581" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Text05">
+    <configuration name="Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student.Text" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Text02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text2.Text02" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Text2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Text04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text4.Text04" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Text4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Text05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text5.Text05" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Text5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Text1.text01" />
+      <module name="day10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Text1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Text05" />
+        <item itemvalue="Application.Text02" />
+        <item itemvalue="Application.text01" />
+        <item itemvalue="Application.Text" />
+        <item itemvalue="Application.Text04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50c5ab66-adb1-4b23-a520-ce448cf30978" name="Default Changelist" comment="" />
+      <created>1578020888296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578020888296</updated>
+      <workItem from="1578020891765" duration="14907000" />
+      <workItem from="1578160692968" duration="14039000" />
+      <workItem from="1578273512414" duration="284000" />
+      <workItem from="1578275366650" duration="1268000" />
+      <workItem from="1579054034801" duration="402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1954000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="111" key="#com.intellij.ide.util.MemberChooser" timestamp="1578171080535">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state x="476" y="111" key="#com.intellij.ide.util.MemberChooser/0.22.1328.746@0.22.1328.746" timestamp="1578164267055" />
+    <state x="477" y="111" key="#com.intellij.ide.util.MemberChooser/0.22.1330.746@0.22.1330.746" timestamp="1578167340649" />
+    <state x="478" y="111" key="#com.intellij.ide.util.MemberChooser/0.22.1332.746@0.22.1332.746" timestamp="1578168424025" />
+    <state x="479" y="111" key="#com.intellij.ide.util.MemberChooser/0.22.1336.746@0.22.1336.746" timestamp="1578171080535" />
+    <state width="1285" height="233" key="GridCell.Tab.0.bottom" timestamp="1578180906136">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state width="1285" height="233" key="GridCell.Tab.0.bottom/0.22.1328.746@0.22.1328.746" timestamp="1578164610862" />
+    <state width="1285" height="233" key="GridCell.Tab.0.bottom/0.22.1330.746@0.22.1330.746" timestamp="1578166691612" />
+    <state width="1285" height="233" key="GridCell.Tab.0.bottom/0.22.1332.746@0.22.1332.746" timestamp="1578168758018" />
+    <state width="1285" height="233" key="GridCell.Tab.0.bottom/0.22.1336.746@0.22.1336.746" timestamp="1578180906136" />
+    <state width="1285" height="233" key="GridCell.Tab.0.center" timestamp="1578180906135">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state width="1285" height="233" key="GridCell.Tab.0.center/0.22.1328.746@0.22.1328.746" timestamp="1578164610861" />
+    <state width="1285" height="233" key="GridCell.Tab.0.center/0.22.1330.746@0.22.1330.746" timestamp="1578166691611" />
+    <state width="1285" height="233" key="GridCell.Tab.0.center/0.22.1332.746@0.22.1332.746" timestamp="1578168758016" />
+    <state width="1285" height="233" key="GridCell.Tab.0.center/0.22.1336.746@0.22.1336.746" timestamp="1578180906135" />
+    <state width="1285" height="233" key="GridCell.Tab.0.left" timestamp="1578180906135">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state width="1285" height="233" key="GridCell.Tab.0.left/0.22.1328.746@0.22.1328.746" timestamp="1578164610860" />
+    <state width="1285" height="233" key="GridCell.Tab.0.left/0.22.1330.746@0.22.1330.746" timestamp="1578166691611" />
+    <state width="1285" height="233" key="GridCell.Tab.0.left/0.22.1332.746@0.22.1332.746" timestamp="1578168758015" />
+    <state width="1285" height="233" key="GridCell.Tab.0.left/0.22.1336.746@0.22.1336.746" timestamp="1578180906135" />
+    <state width="1285" height="233" key="GridCell.Tab.0.right" timestamp="1578180906136">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state width="1285" height="233" key="GridCell.Tab.0.right/0.22.1328.746@0.22.1328.746" timestamp="1578164610862" />
+    <state width="1285" height="233" key="GridCell.Tab.0.right/0.22.1330.746@0.22.1330.746" timestamp="1578166691612" />
+    <state width="1285" height="233" key="GridCell.Tab.0.right/0.22.1332.746@0.22.1332.746" timestamp="1578168758017" />
+    <state width="1285" height="233" key="GridCell.Tab.0.right/0.22.1336.746@0.22.1336.746" timestamp="1578180906136" />
+    <state width="1285" height="233" key="GridCell.Tab.1.bottom" timestamp="1578180906137">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state width="1285" height="233" key="GridCell.Tab.1.bottom/0.22.1328.746@0.22.1328.746" timestamp="1578164610622" />
+    <state width="1285" height="233" key="GridCell.Tab.1.bottom/0.22.1330.746@0.22.1330.746" timestamp="1578166691453" />
+    <state width="1285" height="233" key="GridCell.Tab.1.bottom/0.22.1332.746@0.22.1332.746" timestamp="1578168757844" />
+    <state width="1285" height="233" key="GridCell.Tab.1.bottom/0.22.1336.746@0.22.1336.746" timestamp="1578180906137" />
+    <state width="1285" height="233" key="GridCell.Tab.1.center" timestamp="1578180906136">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state width="1285" height="233" key="GridCell.Tab.1.center/0.22.1328.746@0.22.1328.746" timestamp="1578164610621" />
+    <state width="1285" height="233" key="GridCell.Tab.1.center/0.22.1330.746@0.22.1330.746" timestamp="1578166691452" />
+    <state width="1285" height="233" key="GridCell.Tab.1.center/0.22.1332.746@0.22.1332.746" timestamp="1578168757843" />
+    <state width="1285" height="233" key="GridCell.Tab.1.center/0.22.1336.746@0.22.1336.746" timestamp="1578180906136" />
+    <state width="1285" height="233" key="GridCell.Tab.1.left" timestamp="1578180906136">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state width="1285" height="233" key="GridCell.Tab.1.left/0.22.1328.746@0.22.1328.746" timestamp="1578164610620" />
+    <state width="1285" height="233" key="GridCell.Tab.1.left/0.22.1330.746@0.22.1330.746" timestamp="1578166691452" />
+    <state width="1285" height="233" key="GridCell.Tab.1.left/0.22.1332.746@0.22.1332.746" timestamp="1578168757842" />
+    <state width="1285" height="233" key="GridCell.Tab.1.left/0.22.1336.746@0.22.1336.746" timestamp="1578180906136" />
+    <state width="1285" height="233" key="GridCell.Tab.1.right" timestamp="1578180906137">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state width="1285" height="233" key="GridCell.Tab.1.right/0.22.1328.746@0.22.1328.746" timestamp="1578164610621" />
+    <state width="1285" height="233" key="GridCell.Tab.1.right/0.22.1330.746@0.22.1330.746" timestamp="1578166691453" />
+    <state width="1285" height="233" key="GridCell.Tab.1.right/0.22.1332.746@0.22.1332.746" timestamp="1578168757843" />
+    <state width="1285" height="233" key="GridCell.Tab.1.right/0.22.1336.746@0.22.1336.746" timestamp="1578180906137" />
+    <state x="130" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578175593312">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state x="130" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.22.1336.746@0.22.1336.746" timestamp="1578175593312" />
+    <state x="328" y="177" key="run.anything.popup" timestamp="1578179055236">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state x="328" y="177" key="run.anything.popup/0.22.1336.746@0.22.1336.746" timestamp="1578179055236" />
+    <state x="329" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1578172056245">
+      <screen x="0" y="22" width="1336" height="746" />
+    </state>
+    <state x="328" y="92" key="search.everywhere.popup/0.22.1328.746@0.22.1328.746" timestamp="1578164264484" />
+    <state x="328" y="92" key="search.everywhere.popup/0.22.1330.746@0.22.1330.746" timestamp="1578167286668" />
+    <state x="329" y="92" width="670" height="676" key="search.everywhere.popup/0.22.1336.746@0.22.1336.746" timestamp="1578172056245" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/student/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text1/HandleAble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text1/text01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text2/Text02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text3/Userjie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text3/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text3/Text03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="e#539#761#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text4/worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text4/Text04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text4/APPLE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text5/fa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text5/zhan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Text5/Text05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

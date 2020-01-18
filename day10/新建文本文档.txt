@@ -1,0 +1,10 @@
+ student(name,age，score)
+List<Student>list=new ArrayList<>();
+List<Student>list2=new ArrayList<>();
+班级a有若干学生
+班级b有若干学生
+
+
+1打印总共有多少姓张的学生的个数
+2.先按年龄降序，再按成绩升序排序
+3.打印2个班级中前3个姓张且年龄小于18岁的学生信息
